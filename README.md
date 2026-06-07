@@ -1,6 +1,8 @@
 <div align="center">
 
-# QUICKSHOW 
+# QUICKSHOW
+
+</div>
 
 ## Table of Contents
 
